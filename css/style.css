@@ -1,3 +1,43 @@
 .nav-item{
   margin: 0 15px;
 }
+
+.carousel-item {
+  max-height: 500px;
+}
+
+.product-desc {
+  padding: 30px;
+}
+
+.product-desc img {
+  width: 100%;
+}
+
+.divider {
+  margin: 30px;
+  height: 1px;
+  border-bottom: 1px solid rgb(227, 227, 227);
+}
+
+.product-title {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.products {
+  background: rgba(237, 237, 237, .5);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.inputEmail {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+footer {
+  padding: 50px 0;
+  background: black;
+  color: white;
+  text-align: center;
+}
