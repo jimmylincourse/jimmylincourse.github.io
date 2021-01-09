@@ -73,3 +73,12 @@ footer {
   border: #542827;
   color: white;
 }
+
+.form-group-center {
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+}
